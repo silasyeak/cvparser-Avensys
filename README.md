@@ -2,7 +2,7 @@
 
 This project aims to develop a CV Parsing application using Java Fullstack technologies. The application will extract specific fields from Word/PDF format CVs, including Name, Email ID, Mobile No., Skills, Years of Experience, and Recent 3 Companies.
 
-##Roles & Responsibilities:
+Roles & Responsibilities:
 ▪ Developed a CV parsing website using Open AI’s Natural Language Processor (NLP) API, to parse through user resumes ▪ Implemented functionalities such as Admin role for CRUD operations on resume details.
 ▪ Implemented a login and registration process for users of the parsing website to submit resumes for parsing.
 
